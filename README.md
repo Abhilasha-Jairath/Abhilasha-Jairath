@@ -8,12 +8,12 @@
 
 </div>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Full Stack Development**
 - 🌱 I’m constantly learning and improving my skills
-- 💼 Check out my portfolio at [Abhilasha's-Work](https://dig-in-meals.netlify.app)
+- 💼 Check out my portfolio at [Abhilasha's-Work](https://abhilasha-portfolio.netlify.app/)
 - 👯 I’m looking to collaborate on **competitive programming** projects
 - 💬 Ask me about **MERN stack development** and **competitive programming**
-- 📫 How to reach me: Feel free to drop an email at **abhilashajairath7@gmail.com**
+- 📫 How to reach me: Feel free to drop an email at **abhilashajairath257@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,18 +36,35 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilasha-jairath" alt="GitHub Streak" />
 </p>
-
 <h3 align="center">Skills:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Expert-brightgreen" alt="MERN Stack">
-  <img src="https://img.shields.io/badge/JavaScript-Proficient-success" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-Proficient-success" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-Proficient-success" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-Intermediate-blueviolet" alt="Express.js">
-  <img src="https://img.shields.io/badge/TypeScript-Proficient-success" alt="TypeScript">
-  <!-- Add more badges for your skills -->
+  <img src="https://img.shields.io/badge/MERN%20Stack-Basic-lightgray" alt="MERN Stack">
+  <img src="https://img.shields.io/badge/JavaScript-Basic-lightgray" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-Intermediate-yellow" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-Basic-lightgray" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-Basic-lightgray" alt="Express.js">
+  <img src="https://img.shields.io/badge/TypeScript-Intermediate-yellow" alt="TypeScript">
+  <img src="https://img.shields.io/badge/C/C++-Intermediate-yellow" alt="C/C++">
+  <img src="https://img.shields.io/badge/Java-Basic-lightgray" alt="Java">
+  <img src="https://img.shields.io/badge/Python-Basic-lightgray" alt="Python">
+  <img src="https://img.shields.io/badge/HTML-Intermediate-yellow" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-Intermediate-yellow" alt="CSS">
+  <img src="https://img.shields.io/badge/NextJS-Intermediate-yellow" alt="NextJS">
+  <img src="https://img.shields.io/badge/Material%20UI-Intermediate-yellow" alt="Material UI">
+  <img src="https://img.shields.io/badge/Bootstrap-Intermediate-yellow" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Basic-lightgray" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/GraphQL-Basic-lightgray" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Storybook-Intermediate-yellow" alt="Storybook">
+  <img src="https://img.shields.io/badge/MongoDB-Basic-lightgray" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Firebase-Intermediate-yellow" alt="Firebase">
+  <img src="https://img.shields.io/badge/SQL-Basic-lightgray" alt="SQL">
+  <img src="https://img.shields.io/badge/Microservices-Basic-lightgray" alt="Microservices">
 </p>
+
+
+
+
 
 
 

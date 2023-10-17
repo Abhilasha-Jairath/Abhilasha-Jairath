@@ -39,26 +39,26 @@
 <h3 align="center">Skills:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Basic-lightgray" alt="MERN Stack">
-  <img src="https://img.shields.io/badge/JavaScript-Basic-lightgray" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-Intermediate-yellow" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-Basic-lightgray" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-Basic-lightgray" alt="Express.js">
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-yellow" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C/C++-Intermediate-yellow" alt="C/C++">
-  <img src="https://img.shields.io/badge/Java-Basic-lightgray" alt="Java">
-  <img src="https://img.shields.io/badge/Python-Basic-lightgray" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-Intermediate-yellow" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-Intermediate-yellow" alt="CSS">
-  <img src="https://img.shields.io/badge/NextJS-Intermediate-yellow" alt="NextJS">
+  <img src="https://img.shields.io/badge/C/C++-Intermediate-yellow" alt="C/C++">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Basic-lightgray" alt="MERN Stack">
+  <img src="https://img.shields.io/badge/Node.js-Basic-lightgray" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-Basic-lightgray" alt="Express.js">
   <img src="https://img.shields.io/badge/Material%20UI-Intermediate-yellow" alt="Material UI">
   <img src="https://img.shields.io/badge/Bootstrap-Intermediate-yellow" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-Basic-lightgray" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Java-Basic-lightgray" alt="Java">
+  <img src="https://img.shields.io/badge/Python-Basic-lightgray" alt="Python">
+  <img src="https://img.shields.io/badge/NextJS-Intermediate-yellow" alt="NextJS">
   <img src="https://img.shields.io/badge/GraphQL-Basic-lightgray" alt="GraphQL">
   <img src="https://img.shields.io/badge/Storybook-Intermediate-yellow" alt="Storybook">
   <img src="https://img.shields.io/badge/MongoDB-Basic-lightgray" alt="MongoDB">
   <img src="https://img.shields.io/badge/Firebase-Intermediate-yellow" alt="Firebase">
-  <img src="https://img.shields.io/badge/SQL-Basic-lightgray" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-yellow" alt="SQL">
   <img src="https://img.shields.io/badge/Microservices-Basic-lightgray" alt="Microservices">
 </p>
 
